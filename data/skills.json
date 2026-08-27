@@ -1,0 +1,62 @@
+[
+  {
+    "id": "SK001",
+    "name": "tailoring",
+    "category": "Handicrafts",
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": "SK002",
+    "name": "sewing",
+    "category": "Handicrafts",
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": "SK003",
+    "name": "cooking",
+    "category": "Food",
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": "SK004",
+    "name": "baking",
+    "category": "Food",
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": "SK005",
+    "name": "computer",
+    "category": "Digital Skills",
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": "SK006",
+    "name": "typing",
+    "category": "Digital Skills",
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": "SK007",
+    "name": "english",
+    "category": "Communication",
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": "SK008",
+    "name": "communication",
+    "category": "Communication",
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": "SK009",
+    "name": "handicraft",
+    "category": "Handicrafts",
+    "levels": ["beginner", "intermediate", "advanced"]
+  },
+  {
+    "id": "SK010",
+    "name": "crafting",
+    "category": "Handicrafts",
+    "levels": ["beginner", "intermediate", "advanced"]
+  }
+]
