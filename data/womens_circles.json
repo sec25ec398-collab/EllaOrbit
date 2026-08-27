@@ -1,22 +1,72 @@
 [
   {
+    "id": "WC001",
     "name": "Tailoring Circle",
-    "skills": ["tailoring", "sewing"]
+    "skills": ["tailoring", "sewing"],
+    "location": "Chennai",
+    "language": "Tamil",
+    "meeting_type": "Offline",
+    "meeting_frequency": "Weekly",
+    "verified": true
   },
   {
+    "id": "WC002",
     "name": "Cooking Circle",
-    "skills": ["cooking", "baking"]
+    "skills": ["cooking", "baking"],
+    "location": "Chennai",
+    "language": "Tamil",
+    "meeting_type": "Offline",
+    "meeting_frequency": "Weekly",
+    "verified": true
   },
   {
+    "id": "WC003",
     "name": "Digital Skills Circle",
-    "skills": ["computer", "typing"]
+    "skills": ["computer", "typing"],
+    "location": "Chennai",
+    "language": "English",
+    "meeting_type": "Online",
+    "meeting_frequency": "Weekly",
+    "verified": true
   },
   {
+    "id": "WC004",
     "name": "English Communication Circle",
-    "skills": ["english", "communication"]
+    "skills": ["english", "communication"],
+    "location": "Chennai",
+    "language": "English",
+    "meeting_type": "Online",
+    "meeting_frequency": "Twice a week",
+    "verified": true
   },
   {
+    "id": "WC005",
     "name": "Handicraft Circle",
-    "skills": ["handicraft", "crafting"]
+    "skills": ["handicraft", "crafting"],
+    "location": "Chennai",
+    "language": "Tamil",
+    "meeting_type": "Offline",
+    "meeting_frequency": "Weekly",
+    "verified": true
+  },
+  {
+    "id": "WC006",
+    "name": "Sewing Skills Circle",
+    "skills": ["tailoring", "sewing"],
+    "location": "Chennai",
+    "language": "Tamil",
+    "meeting_type": "Online",
+    "meeting_frequency": "Weekly",
+    "verified": true
+  },
+  {
+    "id": "WC007",
+    "name": "Women Tailoring Entrepreneurs Circle",
+    "skills": ["tailoring", "sewing"],
+    "location": "Chennai",
+    "language": "Tamil",
+    "meeting_type": "Offline",
+    "meeting_frequency": "Monthly",
+    "verified": true
   }
 ]

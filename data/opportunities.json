@@ -1,22 +1,93 @@
 [
   {
+    "id": "OP001",
     "title": "Home-based Tailoring Work",
-    "skills": ["tailoring", "sewing"]
+    "skills": ["tailoring", "sewing"],
+    "location": "Chennai",
+    "work_type": "Home-based",
+    "experience_required": "Beginner",
+    "language": "Tamil",
+    "flexibility": "Flexible",
+    "payment_type": "Per project",
+    "verified": true,
+    "last_updated": "2026-08-20"
   },
   {
+    "id": "OP002",
     "title": "Home-based Catering Work",
-    "skills": ["cooking", "baking"]
+    "skills": ["cooking", "baking"],
+    "location": "Chennai",
+    "work_type": "Home-based",
+    "experience_required": "Beginner",
+    "language": "Tamil",
+    "flexibility": "Flexible",
+    "payment_type": "Per order",
+    "verified": true,
+    "last_updated": "2026-08-20"
   },
   {
+    "id": "OP003",
     "title": "Online Data Entry Work",
-    "skills": ["computer", "typing"]
+    "skills": ["computer", "typing"],
+    "location": "Remote",
+    "work_type": "Remote",
+    "experience_required": "Beginner",
+    "language": "English",
+    "flexibility": "Flexible",
+    "payment_type": "Per task",
+    "verified": true,
+    "last_updated": "2026-08-20"
   },
   {
+    "id": "OP004",
     "title": "Online Content and Communication Work",
-    "skills": ["english", "communication"]
+    "skills": ["english", "communication"],
+    "location": "Remote",
+    "work_type": "Remote",
+    "experience_required": "Beginner",
+    "language": "English",
+    "flexibility": "Flexible",
+    "payment_type": "Per project",
+    "verified": true,
+    "last_updated": "2026-08-20"
   },
   {
+    "id": "OP005",
     "title": "Handmade Crafts Work",
-    "skills": ["handicraft", "crafting"]
+    "skills": ["handicraft", "crafting"],
+    "location": "Chennai",
+    "work_type": "Home-based",
+    "experience_required": "Beginner",
+    "language": "Tamil",
+    "flexibility": "Flexible",
+    "payment_type": "Per product",
+    "verified": true,
+    "last_updated": "2026-08-20"
+  },
+  {
+    "id": "OP006",
+    "title": "Clothing Alteration Work",
+    "skills": ["tailoring", "sewing"],
+    "location": "Chennai",
+    "work_type": "Home-based",
+    "experience_required": "Beginner",
+    "language": "Tamil",
+    "flexibility": "Flexible",
+    "payment_type": "Per item",
+    "verified": true,
+    "last_updated": "2026-08-20"
+  },
+  {
+    "id": "OP007",
+    "title": "Boutique Stitching Work",
+    "skills": ["tailoring", "sewing"],
+    "location": "Chennai",
+    "work_type": "Part-time",
+    "experience_required": "Intermediate",
+    "language": "Tamil",
+    "flexibility": "Flexible",
+    "payment_type": "Per project",
+    "verified": true,
+    "last_updated": "2026-08-20"
   }
 ]

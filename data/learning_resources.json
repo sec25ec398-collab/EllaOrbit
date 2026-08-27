@@ -1,27 +1,79 @@
 [
   {
+    "id": "LR001",
     "title": "Basic Tailoring Skills",
     "skills": ["tailoring", "sewing"],
-    "link": "https://example.com/tailoring"
+    "skill_level": "beginner",
+    "language": "Tamil",
+    "format": "Online",
+    "duration": "4 weeks",
+    "link": "https://example.com/tailoring",
+    "verified": true
   },
   {
+    "id": "LR002",
     "title": "Basic Cooking Skills",
     "skills": ["cooking", "baking"],
-    "link": "https://example.com/cooking"
+    "skill_level": "beginner",
+    "language": "Tamil",
+    "format": "Online",
+    "duration": "3 weeks",
+    "link": "https://example.com/cooking",
+    "verified": true
   },
   {
+    "id": "LR003",
     "title": "Computer Basics",
     "skills": ["computer", "typing"],
-    "link": "https://example.com/computer-basics"
+    "skill_level": "beginner",
+    "language": "English",
+    "format": "Online",
+    "duration": "4 weeks",
+    "link": "https://example.com/computer-basics",
+    "verified": true
   },
   {
+    "id": "LR004",
     "title": "Spoken English Guide",
     "skills": ["english", "communication"],
-    "link": "https://example.com/spoken-english"
+    "skill_level": "beginner",
+    "language": "English",
+    "format": "Online",
+    "duration": "6 weeks",
+    "link": "https://example.com/spoken-english",
+    "verified": true
   },
   {
+    "id": "LR005",
     "title": "Handicraft and Handmade Products",
     "skills": ["handicraft", "crafting"],
-    "link": "https://example.com/handicrafts"
+    "skill_level": "beginner",
+    "language": "Tamil",
+    "format": "Online",
+    "duration": "4 weeks",
+    "link": "https://example.com/handicrafts",
+    "verified": true
+  },
+  {
+    "id": "LR006",
+    "title": "Advanced Sewing Techniques",
+    "skills": ["tailoring", "sewing"],
+    "skill_level": "intermediate",
+    "language": "Tamil",
+    "format": "Online",
+    "duration": "5 weeks",
+    "link": "https://example.com/advanced-sewing",
+    "verified": true
+  },
+  {
+    "id": "LR007",
+    "title": "Embroidery for Tailoring",
+    "skills": ["tailoring", "sewing"],
+    "skill_level": "beginner",
+    "language": "Tamil",
+    "format": "Online",
+    "duration": "3 weeks",
+    "link": "https://example.com/embroidery",
+    "verified": true
   }
 ]
