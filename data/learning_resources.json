@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Basic Tailoring Skills",
+    "skills": ["tailoring", "sewing"],
+    "link": "https://example.com/tailoring"
+  },
+  {
+    "title": "Basic Cooking Skills",
+    "skills": ["cooking", "baking"],
+    "link": "https://example.com/cooking"
+  },
+  {
+    "title": "Computer Basics",
+    "skills": ["computer", "typing"],
+    "link": "https://example.com/computer-basics"
+  },
+  {
+    "title": "Spoken English Guide",
+    "skills": ["english", "communication"],
+    "link": "https://example.com/spoken-english"
+  },
+  {
+    "title": "Handicraft and Handmade Products",
+    "skills": ["handicraft", "crafting"],
+    "link": "https://example.com/handicrafts"
+  }
+]

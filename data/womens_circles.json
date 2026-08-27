@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tailoring Circle",
+    "skills": ["tailoring", "sewing"]
+  },
+  {
+    "name": "Cooking Circle",
+    "skills": ["cooking", "baking"]
+  },
+  {
+    "name": "Digital Skills Circle",
+    "skills": ["computer", "typing"]
+  },
+  {
+    "name": "English Communication Circle",
+    "skills": ["english", "communication"]
+  },
+  {
+    "name": "Handicraft Circle",
+    "skills": ["handicraft", "crafting"]
+  }
+]

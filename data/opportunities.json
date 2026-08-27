@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Home-based Tailoring Work",
+    "skills": ["tailoring", "sewing"]
+  },
+  {
+    "title": "Home-based Catering Work",
+    "skills": ["cooking", "baking"]
+  },
+  {
+    "title": "Online Data Entry Work",
+    "skills": ["computer", "typing"]
+  },
+  {
+    "title": "Online Content and Communication Work",
+    "skills": ["english", "communication"]
+  },
+  {
+    "title": "Handmade Crafts Work",
+    "skills": ["handicraft", "crafting"]
+  }
+]
